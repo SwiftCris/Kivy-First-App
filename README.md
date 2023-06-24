@@ -1,2 +1,4 @@
 # Kivy-First-App
-My firsg kivy app
+My first kivy app 
+
+Hello This is my first kivy
